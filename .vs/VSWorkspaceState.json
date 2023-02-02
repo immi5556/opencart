@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\upload",
+    "\\upload\\extension",
+    "\\upload\\extension\\opencart",
+    "\\upload\\extension\\opencart\\admin",
+    "\\upload\\image",
+    "\\upload\\install",
+    "\\upload\\system",
+    "\\upload\\system\\config"
+  ],
+  "PreviewInSolutionExplorer": false
+}
